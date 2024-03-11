@@ -1,0 +1,3 @@
+001,Portatil,1500000
+002,Mouse,80000
+003,Audifonos,56700
